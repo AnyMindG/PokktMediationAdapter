@@ -42,6 +42,7 @@ Pod::Spec.new do |s|
     s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
     
  
+
     s.dependency "Google-Mobile-Ads-SDK"
     s.dependency "PersonalizedAdConsent"
    
