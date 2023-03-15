@@ -1,0 +1,6 @@
+framework module PokktSDK {
+  umbrella header "PokktSDK.h"
+
+  export *
+  module * { export * }
+}
