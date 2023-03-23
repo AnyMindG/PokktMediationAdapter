@@ -100,6 +100,7 @@
 + (void)setSourceAppStoreIdentifier:(NSString *)identifier;
 
 /*
+ Test the changes
  ATTrackingManagerAuthorizationStatusNotDetermined = 0,
  ATTrackingManagerAuthorizationStatusRestricted = 1,
  ATTrackingManagerAuthorizationStatusDenied = 2,
